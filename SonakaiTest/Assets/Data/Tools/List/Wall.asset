@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 966b85d279462ea4d88bf257f567b2fb, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: 197fa4a94dd3cad4c84e25bd68fc839c, type: 3}
+  _number: 2
+  _hotkey: Select Tool 2
+  _prefab: {fileID: 114328903552662588, guid: bac0c43a70f67514585774a1efe98615, type: 2}
